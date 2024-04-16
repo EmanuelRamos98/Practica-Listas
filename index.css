@@ -1,0 +1,19 @@
+*{
+    font-family: Montserrat, sans-serif;
+    color: white;
+}
+h1{
+    color: black;
+}
+h2{
+    font-size: 15px;
+}
+ol,li{
+    list-style: none;
+}
+nav{
+    background-color: rgb(54, 53, 53);
+    max-width: 300px;
+    padding: 20px;
+    
+}
